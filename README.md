@@ -1,6 +1,7 @@
-# cep_app
+# Serviço para buscar CEP
 
-A new Flutter project.
+![Cep](https://user-images.githubusercontent.com/3016393/197093416-33132e53-9ee2-44fb-b621-56b31ff578a0.gif)
+
 
 ## Getting Started
 
